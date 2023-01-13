@@ -6,7 +6,7 @@ Karakory naroôh !!!
   
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/fenofifaliana-rafanomezantsoa-b87316211/">
+  <a href="https://www.linkedin.com/in/fatiha-hasinjanahary-ilrith-46bb5625a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
